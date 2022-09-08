@@ -31,3 +31,12 @@ UnOrdered List
   *  Bike 
   *  Stroll
   [Aboutme File](https://github.com/balaharinadh/assignment2_palavelliB/blob/main/AboutMe.md)
+
+| City Name   | Imp Location         | Time to spend   |
+| :---        |    :----:            |          ---:   |
+| Hyderabad   | Char Minar           | 1 hours         |
+| Mumbai      | Taj Hotel            | 2 hours         |
+| Darjeeling  |Himayalayan Foothills |4 hours          |
+| Delhi       | Red Fort             | 3 hours         |
+| Punjab      | Amritsar             | 4 hours         |
+
