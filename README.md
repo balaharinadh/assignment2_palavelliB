@@ -31,6 +31,10 @@ UnOrdered List
   *  Bike 
   *  Stroll
   [Aboutme File](https://github.com/balaharinadh/assignment2_palavelliB/blob/main/AboutMe.md)
+  
+  --- 
+
+  # Table
 
 | City Name   | Imp Location         | Time to spend   |
 | :---        |    :----:            |          ---:   |
@@ -39,4 +43,11 @@ UnOrdered List
 | Darjeeling  |Himayalayan Foothills |4 hours          |
 | Delhi       | Red Fort             | 3 hours         |
 | Punjab      | Amritsar             | 4 hours         |
+
+## Quotes
+> We are what our thoughts have made us; so take care about what you think. -*Swami Vivekananda*
+
+> The only true wisdom is in knowing you know nothing. -*Socrates*
+
+> Life is like riding a bicycle -*Albert Einstein*
 
