@@ -51,3 +51,16 @@ UnOrdered List
 
 > Life is like riding a bicycle -*Albert Einstein*
 
+# Code Fencing
+
+How to use Flexbox?
+
+Have a Look For Question <https://stackoverflow.com/questions/44623821/how-to-use-flexbox>
+
+```
+.container {
+  display: flex; /* or inline-flex */
+}
+```
+
+have a Look at above code snippet <https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-examples>
